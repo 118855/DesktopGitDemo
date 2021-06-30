@@ -1,0 +1,7 @@
+Some text
+New text
+<<<<<<< HEAD
+Text from featureY
+=======
+Text from featureZ
+>>>>>>> featureZ
